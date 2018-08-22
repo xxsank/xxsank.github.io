@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>180823-TIL</title>
+      <link href="/2018/08/23/TIL/"/>
+      <content type="html"><![CDATA[<h2 id="블로그-만들기"><a href="#블로그-만들기" class="headerlink" title="블로그 만들기"></a>블로그 만들기</h2><p><del>이제야</del> 개발공부를 하면서 정리할 블로그를 만들었다. <strong>hexo</strong>라는 블로그 프레임워크를 이용해 만들었는데, 개발자가 대만 출신이라 그런지 테마를 고를때 들어가서 보면 거의 다 중국어로 작성된 테마가 대부분이었다. 최대한 영어 가이드가 제공되는 테마를 사용하려 했지만, 제일 심플해보이는 nayo 테마가 너무 마음에 들어 선택하게 되었다. (처음 셋팅 할 때 메뉴에서 tags,about 페이지로 이동하면 404 notfound 에러가 나서 열심히 hexo 문서보면서 구글링했는데 뒤늦게 테마 repository에 가서 issue를 확인하니 쉽게 해결하였다….  )<br><br></p><ul><li>추가 계획<ul><li>ABOUT 페이지 추가</li><li>적당한 profile 사진 넣기<br><br><br><br></li></ul></li></ul><h2 id="Hexo-Quick-Start"><a href="#Hexo-Quick-Start" class="headerlink" title="Hexo Quick Start"></a>Hexo Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      <categories>
+          
+          <category> TIL </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> TIL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
+</search>
